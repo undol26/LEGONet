@@ -9,11 +9,16 @@ Our code is based on the [DSOD](https://github.com/szq0214/DSOD) framework.
 We propose a new cytoarchitecture network based on lattice-type DenseNets for object detection without using any pre-trained model. The proposed network can make more abundant feature maps than the traditional DenseNets as they develop feature maps in two different paths. In order to increase diversity and avoid problems of overlapping features, we augment a ResNet in one of the paths. There are three dense blocks, and each dense block is composed of a lattice-type DenseNet. We reduce the structure of the original DenseNet to the same size as our network to make a rapid comparison. Experiments are performed with the PASCAL VOC 2007 dataset, where our proposed architecture shows mAP improvement of approximately 2.1% relative to the reduced version of DSOD on object detection task. 
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/29120209/49847894-c359a300-fe15-11e8-8df1-c2d37c8a59b3.png">
-<img src="https://github.com/undol26/LEGONet/files/2899412/fig2.pdf">
- 
- 
+
+<img src="https://user-images.githubusercontent.com/29120209/53323818-8f752080-3922-11e9-8ca7-ab655a1b4c47.png">
+<Basic LTDN model>
+<img src="https://user-images.githubusercontent.com/29120209/53323845-a1ef5a00-3922-11e9-9426-f238d1dc67a9.png">
+
+
 </div>
+
+ 
+ 
 
 ## Results & Models
 Our results are shown in the below table. We experiment using PASCAL VOC 2007 dataset.
