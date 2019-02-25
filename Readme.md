@@ -11,9 +11,10 @@ We propose a new cytoarchitecture network based on lattice-type DenseNets for ob
 <div align=center>
 
 <img src="https://user-images.githubusercontent.com/29120209/53323818-8f752080-3922-11e9-8ca7-ab655a1b4c47.png">
-<Basic LTDN model>
-<img src="https://user-images.githubusercontent.com/29120209/53323845-a1ef5a00-3922-11e9-9426-f238d1dc67a9.png">
+Basic LTDN model
 
+<img src="https://user-images.githubusercontent.com/29120209/53323845-a1ef5a00-3922-11e9-9426-f238d1dc67a9.png">
+LEGONet
 
 </div>
 
